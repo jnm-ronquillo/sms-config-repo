@@ -1,4 +1,4 @@
-propiedad.ejemplo: "CONFIGURACION POR DEFAULT DESDE GIT"
+propiedad.ejemplo: "CONFIGURACION POR DEFAULT DESDE GIT :-)"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
