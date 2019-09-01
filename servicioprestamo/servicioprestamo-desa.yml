@@ -1,4 +1,4 @@
-propiedad.ejemplo: "CONFIGURACION DESARROLLO"
+propiedad.ejemplo: "CONFIGURACION DESARROLLO DESDE GIT"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
