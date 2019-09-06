@@ -16,3 +16,5 @@ spring.jpa.properties.hibernate.temp.use_jdbc_metadata_defaults: false
 # Mostrar el detalle de la salud de un servicio
 management.endpoint.health.show-details: always
 management.endpoints.web.exposure.include: "*"
+
+
